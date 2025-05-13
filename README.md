@@ -29,7 +29,7 @@ the **[AsyncAPI Initiative](https://www.asyncapi.com)**, enhancing Java support 
 - Launched **"Crowdfunding School"** and **auctions of rewards** for [Planeta.ru](https://planeta.ru), the leading social crowdfunding platform.
 - Designed and shipped developer tools and libraries supporting AsyncAPI specification for Java, with a focus on adoption in real-world microservice systems.
 - Consistent contributor to open-source projects in API tooling, DevEx, and backend services
-
+- I'm a TSC member of the [AsyncAPI Initiative](https://www.asyncapi.com)
 ---
 
 🛠️ **Technical Skills:**
@@ -52,6 +52,6 @@ Developer Experience (DevEx), OSS Development, Technical Product Management, API
 ---
 
 **Links**
-Personal website (https://pavelon.dev)
-LinkedIn (http://linkedin.com/in/pavel-bo/)
-Sponsor me on GitHub (https://github.com/sponsors/pakisan)
+- Personal website (https://pavelon.dev)
+- LinkedIn (http://linkedin.com/in/pavel-bo/)
+- Sponsor me on GitHub (https://github.com/sponsors/pakisan)
