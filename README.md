@@ -48,3 +48,10 @@ MongoDB, PostgreSQL
 
 **Other Competencies:** </br>
 Developer Experience (DevEx), OSS Development, Technical Product Management, API Lifecycle, CI/CD
+
+---
+
+**Links**
+Personal website (https://pavelon.dev)
+LinkedIn (http://linkedin.com/in/pavel-bo/)
+Sponsor me on GitHub (https://github.com/sponsors/pakisan)
